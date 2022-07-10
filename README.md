@@ -11,16 +11,18 @@
  <br>
  
  
-<h3 align="left">Connect with me:</h3>
-  <a target="_blank" href="https://www.linkedin.com/in/leonardo-henrique-08396922a/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=553173008108">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="[https://www.instagram.com/ary.clenio/](https://www.instagram.com/leeo_henrique.17/)">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><br>
+<h3 align="center">Connect with me:</h3>
+<div align="center"
+    <a target="_blank" href="https://www.linkedin.com/in/leonardo-henrique-08396922a/">
+      <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a target="_blank" href="https://api.whatsapp.com/send?phone=553173008108">
+      <img align="center" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+    </a>
+    <a target="_blank" href="[https://www.instagram.com/ary.clenio/](https://www.instagram.com/leeo_henrique.17/)">
+      <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    </a><br>
+ </div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
