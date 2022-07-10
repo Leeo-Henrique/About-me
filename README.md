@@ -35,4 +35,3 @@
   <div align="center">
     ![snake gif](https://github.com/Leeo-Henrique/Leeo-Henrique/blob/output/github-contribution-grid-snake.gif)
   </div>
-
