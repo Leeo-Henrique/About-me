@@ -32,5 +32,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
   
- ![snake gif](https://github.com/Leeo-Henrique/Leeo-Henrique/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
+    ![snake gif](https://github.com/Leeo-Henrique/Leeo-Henrique/blob/output/github-contribution-grid-snake.gif)
+  </div>
 
