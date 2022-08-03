@@ -12,7 +12,7 @@
  
  
 <h3 align="center">Connect with me:</h3>
-<div align="center"
+<div justify-content="space-around"
     <a target="_blank" href="https://www.linkedin.com/in/leonardo-henrique-08396922a">
       <img align="center" alt="LinkdeIN" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
