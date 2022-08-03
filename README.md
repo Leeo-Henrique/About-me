@@ -13,13 +13,13 @@
  
 <h3 align="center">Connect with me:</h3>
 <div align="center"
-    <a target="_blank" href="https://www.linkedin.com/in/leonardo-henrique-08396922a/">
+    <a target="_blank" href="[https://www.linkedin.com/in/leonardo-henrique-08396922a/]">
       <img align="center" alt="LinkdeIN" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
     <a target="_blank" href="https://api.whatsapp.com/send?phone=553173008108">
       <img align="center" alt="Whatsapp" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
     </a>
-    <a target="_blank" href="[https://www.instagram.com/ary.clenio/](https://www.instagram.com/leeo_henrique.17/)">
+    <a target="_blank" href="(https://www.instagram.com/leeo_henrique.17/)">
       <img align="center" alt="Instagram" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a><br>
  </div>
