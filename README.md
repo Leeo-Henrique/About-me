@@ -21,9 +21,11 @@
     </a>
     <a target="_blank" href="https://www.instagram.com/leeo_henrique.17/">
       <img align="center" alt="Instagram" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a><br>
+    </a>
  </div>
-
+  <br>
+###
+  <br>
 <div align="center" valign="top"><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
