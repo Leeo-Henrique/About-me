@@ -40,5 +40,4 @@
   <img alt="snake eating my contribution" src="https://github.com/Leeo-Henrique/About-me/blob/output/github-contribution-grid-snake.svg">
   <br>
   <br>
-  <br>
 </div>
