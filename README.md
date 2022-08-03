@@ -38,7 +38,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>  
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <h2> Contribution </h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/Leeo-Henrique/About-me/blob/output/github-contribution-grid-snake.svg">
   <br>
