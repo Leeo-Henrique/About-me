@@ -12,6 +12,7 @@
  
  
 <h3 align="center">Connect with me:</h3>
+   <br>
 <div align="center">
     <a target="_blank" href="https://www.linkedin.com/in/leonardo-henrique-08396922a">
       <img align="center" alt="LinkdeIN" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,8 +24,7 @@
       <img align="center" alt="Instagram" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
  </div>
-  <br>
-###
+ 
   <br>
 <div align="center" valign="top"><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
