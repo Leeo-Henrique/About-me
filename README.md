@@ -1,4 +1,11 @@
-<h1> Hi! My name is Leo. </h1>
+<h1> Oi! Eu me chamo Leo. </h1>
+<h2>Sobre mim</h2>
+<br/>
+<p>
+Minha missão com o desenvolvimento web é trazer para a internet acessibilidade, segurança e velocidade para todos.
+Possuo experiência de mil horas em HTML, CSS, JavaScript, React Podendo criar do zero um e-commerce em ReactJS ou JavaScript.
+Atualmente me especializando em Back-end para me tornar um desenvolvedor Full-stack, estudando algumas tecnologias como Docker, NodeJS, PostgreSQL, Python.
+</p>
 
 <div align="center">
   <a href="https://github.com/Leeo-Henrique">
@@ -14,7 +21,7 @@
  <br>
  
  
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contatos:</h3>
    <br>
 <div align="center">
     <a target="_blank" href="https://www.linkedin.com/in/leonardo-henrique-08396922a">
@@ -31,7 +38,7 @@
   <br>
 <div align="center" valign="top"><br>
 
-  <h1 align="center" font-size="13px"> Learned technology:</h1><br>
+  <h1 align="center" font-size="13px">Técnologias aprendidas:</h1><br>
   
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -46,7 +53,7 @@
   
 </div><br>  
 <div align="center">
-  <h2> Contribution </h2>
+  <h2> Contribuições </h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/Leeo-Henrique/About-me/blob/output/github-contribution-grid-snake.svg">
   <br>
